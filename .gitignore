@@ -1,0 +1,5 @@
+grafana/grafana.db
+grafana/plugins
+grafana/csv
+grafana/pdf
+grafana/png
